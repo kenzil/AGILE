@@ -1,23 +1,5 @@
 
 
-
-
-**EPIC : Gestion globale du cabinet
-
-En tant qu'admnistrateur, je souhaite pouvoir gerer les comptes utilisateurs afin de organiser le cabinet.
-
-En tant que secretaire, je souhaite pouvoir gerer les patients afin de organiser le cabinet.
-
-**EPIC : Informations Patient
-
-
-En tant que medecin, je souhaite avoir acces aux fiche du patient afin de mieux evaluer la situation du patient et créer des rapport medicaux et ordonnances.
-
-En tant que secretaire, je souhaite pouvoir gerer les fiches du patient afin de mettre a jour la base de données.
-
-En tant que patient,  je souhaite avoir un acces à mes rapport medicaux afin d'avoir un suivi de ma situation medicale.
-
-
 **EPIC : Planning rendez vous
 
 En tant que secretaire, je souhaite pouvoir gérer les rendez-vous afin d'organiser le travail du medecin.
@@ -30,10 +12,30 @@ En tant que patient, je souhaite pouvoir prendre un rendez vous par le biais de 
 En tant que medecin, je souhaite pouvoir consulter et gérer mes rendez-vous afin de mieux maitriser mon emploi du temps
 
 
+
+
+**EPIC : Informations Patient
+
+
+En tant que medecin, je souhaite avoir acces aux fiche du patient afin de mieux evaluer la situation du patient et créer des rapport medicaux et ordonnances.
+
+En tant que secretaire, je souhaite pouvoir gerer les fiches du patient afin de mettre a jour la base de données.
+
+En tant que patient,  je souhaite avoir un acces à mes rapport medicaux afin d'avoir un suivi de ma situation medicale.
+
+
+**EPIC : Gestion globale du cabinet
+
+En tant qu'admnistrateur, je souhaite pouvoir gerer les comptes utilisateurs afin de organiser le cabinet.
+
+En tant que secretaire, je souhaite pouvoir gerer les patients afin de organiser le cabinet.
+
+
+
 **EPIC : Authentification
 
 
-En tant que utilisateur, je souhaite pouvoir acceder a mon compte afin 
+En tant que utilisateur, je souhaite pouvoir acceder a mon compte afin de centraliser mes données.
 
 
 
