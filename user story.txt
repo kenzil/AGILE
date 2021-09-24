@@ -30,7 +30,7 @@ En tant que patient, je souhaite pouvoir prendre un rendez vous par le biais de 
 En tant que medecin, je souhaite pouvoir consulter et gérer mes rendez-vous afin de mieux maitriser mon emploi du temps
 
 
-**EPIC : Authentificationgg
+**EPIC : Authentification
 
 
 En tant que utilisateur, je souhaite pouvoir acceder a mon compte afin 
