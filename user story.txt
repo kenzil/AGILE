@@ -2,10 +2,10 @@
 
 **EPIC : Planning rendez vous
 
-En tant que secretaire, je souhaite pouvoir gérer les rendez-vous afin d'organiser le travail du medecin.
+xx  En tant que secretaire, je souhaite pouvoir gérer les rendez-vous afin d'organiser le travail du medecin.
 
 
-En tant que patient, je souhaite avoir acces a mes rendez-vous afin de mieux maitriser mon emploi du temps.
+ xx En tant que patient, je souhaite avoir acces a mes rendez-vous afin de mieux maitriser mon emploi du temps.
 En tant que patient, je souhaite pouvoir prendre un rendez vous par le biais de l'application.
 
 En tant que patient, je souhaite etre prévenu a l'avance d'un rendez vous afin de me préparer.
@@ -13,7 +13,7 @@ En tant que patient, je souhaite etre prévenu a l'avance d'un rendez vous afin 
 En tant que patient, je souhaite pouvoir visualiser la liste des medecins afin de m'informer sur les possibilitées de soin du cabinet.
 
 
-En tant que medecin, je souhaite pouvoir consulter et gérer mes rendez-vous afin de mieux maitriser mon emploi du temps
+xx En tant que medecin, je souhaite pouvoir consulter et gérer mes rendez-vous afin de mieux maitriser mon emploi du temps
 
 
 
@@ -23,10 +23,10 @@ En tant que medecin, je souhaite pouvoir consulter et gérer mes rendez-vous afi
 
 En tant que medecin, je souhaite avoir acces aux fiche du patient afin de mieux evaluer la situation du patient et créer des rapport medicaux et ordonnances.
  En tant que medecin, je souhaite pouvoir créer des rapport medicaux et ordonnances afin de lui fournir un suivi.
-  En tant que medecin, je souhaite pouvoir rechercher un patient précis afin d'obtenir ces informations.
+ x En tant que medecin, je souhaite pouvoir rechercher un patient précis afin d'obtenir ces informations.
 
 En tant que secretaire, je souhaite pouvoir gerer les fiches du patient afin de mettre a jour la base de données.
- En tant que secretaire, je souhaite pouvoir rechercher un patient précis afin d'obtenir ces informations.
+x En tant que secretaire, je souhaite pouvoir rechercher un patient précis afin d'obtenir ces informations.
 
 
 En tant que patient,  je souhaite avoir un acces à mes rapport medicaux afin d'avoir un suivi de ma situation medicale.
