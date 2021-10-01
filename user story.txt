@@ -46,7 +46,13 @@ En tant que patient,  je souhaite avoir un acces à mes rapport medicaux afin d'
 
 En tant qu'admnistrateur, je souhaite pouvoir gerer les comptes utilisateurs afin de organiser le cabinet.
 
+En tant qu'administrateur, je souhaite que tout les mots de passes enregistrés sur l'application soit cryptés.
+
 En tant que secretaire, je souhaite pouvoir gerer (ajouter ou supprimer) les patients afin d'organiser le cabinet.
+
+En tant qu'utilisateur, je souhaite avoir la possibilité de changer mon mot de passe à tout moment à partir de mon compte.
+
+En tant qu'utilisateur, je souhaite que mon mot de passe soit réinitialisable à partir d'un lien qui sera envoyé sur ma boite mail.
 
 En tant que visiteur de l'application je souhaite pouvoir connaitre les médecin du cabinet ainsi que les spécialités qui y sont présentes.
 
