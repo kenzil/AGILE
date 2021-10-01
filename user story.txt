@@ -3,9 +3,11 @@
 **EPIC : Planning rendez vous
 
 xx  En tant que secretaire, je souhaite pouvoir gérer les rendez-vous afin d'organiser le travail du medecin.
+En tant que secretaire, je souhaite que la gestion de rendez-vous comprenne également l'option de modification d'horaire d'un rendez vous à coté de la création et l'annulation
 
 
  xx En tant que patient, je souhaite avoir acces a mes rendez-vous afin de mieux maitriser mon emploi du temps.
+ 
 En tant que patient, je souhaite pouvoir prendre un rendez vous par le biais de l'application.
 
 En tant que patient, je souhaite etre prévenu a l'avance d'un rendez vous afin de me préparer.
