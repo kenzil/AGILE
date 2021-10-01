@@ -1,16 +1,24 @@
+instructions : 
+
+xxx ........ : la user story ne sera plus réalisé
++++ ........ : la user story est la remplaçante de la user story ignoré.
 
 
 **EPIC : Planning rendez vous
 
-xx  En tant que secretaire, je souhaite pouvoir gérer les rendez-vous afin d'organiser le travail du medecin.
-En tant que secretaire, je souhaite que la gestion de rendez-vous comprenne également l'option de modification d'horaire d'un rendez vous à coté de la création et l'annulation
+-En tant que secretaire, je souhaite pouvoir gérer les rendez-vous afin d'organiser le travail du medecin.
++En tant que secretaire, je souhaite que la gestion de rendez-vous comprenne également l'option de modification d'horaire d'un rendez vous à coté de la création et l'annulation
 
 
- xx En tant que patient, je souhaite avoir acces a mes rendez-vous afin de mieux maitriser mon emploi du temps.
+-En tant que patient, je souhaite avoir acces a mes rendez-vous afin de mieux maitriser mon emploi du temps.
  
-En tant que patient, je souhaite pouvoir prendre un rendez vous par le biais de l'application.
+xxx En tant que patient, je souhaite pouvoir prendre un rendez vous par le biais de l'application.
++++ En tant que secretaire, je souhaite etre la seule à pouvoir donner des rendez-vous pour bien utiliser le temps.
 
 En tant que patient, je souhaite etre prévenu a l'avance d'un rendez vous afin de me préparer.
+
+xxx En tant que patient, je souhaite etre capable de reporter mon rendez-vous à partir de l'application.
++++ En tant que secretaire, je souhaite etre la seule à pouvoir modifier les horaires d'un rendez-vous.
 
 En tant que patient, je souhaite pouvoir visualiser la liste des medecins afin de m'informer sur les possibilitées de soin du cabinet.
 
@@ -39,6 +47,9 @@ En tant que patient,  je souhaite avoir un acces à mes rapport medicaux afin d'
 En tant qu'admnistrateur, je souhaite pouvoir gerer les comptes utilisateurs afin de organiser le cabinet.
 
 En tant que secretaire, je souhaite pouvoir gerer (ajouter ou supprimer) les patients afin d'organiser le cabinet.
+
+En tant que visiteur de l'application je souhaite pouvoir connaitre les médecin du cabinet ainsi que les spécialités qui y sont présentes.
+
 
 
 
