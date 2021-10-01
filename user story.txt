@@ -23,7 +23,7 @@ xxx En tant que patient, je souhaite etre capable de reporter mon rendez-vous à
 En tant que patient, je souhaite pouvoir visualiser la liste des medecins afin de m'informer sur les possibilitées de soin du cabinet.
 
 
-xx En tant que medecin, je souhaite pouvoir consulter et gérer mes rendez-vous afin de mieux maitriser mon emploi du temps
+En tant que medecin, je souhaite pouvoir consulter et gérer mes rendez-vous afin de mieux maitriser mon emploi du temps
 
 
 
@@ -32,11 +32,11 @@ xx En tant que medecin, je souhaite pouvoir consulter et gérer mes rendez-vous 
 
 
 En tant que medecin, je souhaite avoir acces aux fiche du patient afin de mieux evaluer la situation du patient et créer des rapport medicaux et ordonnances.
- En tant que medecin, je souhaite pouvoir créer des rapport medicaux et ordonnances afin de lui fournir un suivi.
- x En tant que medecin, je souhaite pouvoir rechercher un patient précis afin d'obtenir ces informations.
+En tant que medecin, je souhaite pouvoir créer des rapport medicaux et ordonnances afin de lui fournir un suivi.
+En tant que medecin, je souhaite pouvoir rechercher un patient précis afin d'obtenir ces informations.
 
 En tant que secretaire, je souhaite pouvoir gerer les fiches du patient afin de mettre a jour la base de données.
-x En tant que secretaire, je souhaite pouvoir rechercher un patient précis afin d'obtenir ces informations.
+En tant que secretaire, je souhaite pouvoir rechercher un patient précis afin d'obtenir ces informations.
 
 
 En tant que patient,  je souhaite avoir un acces à mes rapport medicaux afin d'avoir un suivi de ma situation medicale.
